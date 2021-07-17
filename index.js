@@ -1,3 +1,5 @@
+/* SCRIPT BY YOUR MOM*/
+
 'use strict'
 const JOB_BRAWLER = 10;
 const SKILL_HAYMAKER = 60901;
