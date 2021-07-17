@@ -1,0 +1,18 @@
+{
+	"GLOBAL_LATENCY": 100,
+	"GLOBAL_LATENCY_DESCRIPTION": "change GLOBAL_LATENCY to your lowest usual ping",
+	"AUTORHK": true,
+	"AUTORHK_DESCRIPTION": "DO NOT USE WITHOUT ROBOTJS - Auto RHK after GP",
+	"GPRHKDelay": 2200,
+	"GPRHKDelay_DESCRIPTION": "Delay at base aspd in milliseconds",
+	"AUTORHK2": true,
+	"AUTORHK2_DESCRIPTION": "DO NOT USE WITHOUT ROBOTJS - Auto RHK after HM",
+	"HMRHKDelay": 1200,
+	"HMRHKDelay_DESCRIPTION": "Delay at base aspd in milliseconds",
+	"RHKKEY": "1",
+	"RHKKEY_DESCRIPTION": "Key for RHK, find keyboard syntax list here http://robotjs.io/docs/syntax",
+	"AUTO_COMBO_ATTACK_MOVE": true,
+	"AUTO_COMBO_ATTACK_MOVE_DESCRIPTION": "Automatically trigger punch -> block movement combo when you press punch + W",
+	"BLOCKKEY": "0",
+	"BLOCKKEY_DESCRIPTION": "Key for block, find keyboard syntax list here http://robotjs.io/docs/syntax"
+}

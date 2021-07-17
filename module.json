@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": true,
+    "name": "script-brawler",
+    "author": "<font color='#FDD017'>Bernie 2020</font>",
+    "description": "Dead Game",
+    "version": "<font color='#FC0FC0'>GF-107.2</font>",
+    "options": {
+        "niceName": "script-brawler",
+        "guiName": "<font color='#FDD017'>script-brawler</font>"
+    }
+}
