@@ -1,2 +1,2 @@
 # brawler-script
-do not pay anyone a dime for this scripts
+do not pay anyone a dime for this scripts.
